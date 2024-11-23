@@ -1,0 +1,11 @@
+# ninja log v6
+3	528	7540850288895677	build.ninja	fd27ead157dfae80
+2	904	7540830568272516	CMakeFiles/CandyCrush.dir/main.cpp.obj	b60ab476f376e5
+7	1689	7540831455236089	CMakeFiles/CandyCrush.dir/Node.cpp.obj	f052645c078dc845
+1689	2830	7540831472055753	CandyCrush.exe	c5678d247e3dab4
+3	962	7540853288326437	CMakeFiles/CandyCrush.dir/main.cpp.obj	b60ab476f376e5
+75	1318	7540853289047866	CMakeFiles/CandyCrush.dir/Node.cpp.obj	f052645c078dc845
+1319	2364	7540853301470684	CandyCrush.exe	c5678d247e3dab4
+4	1307	7540853749103514	CMakeFiles/CandyCrush.dir/main.cpp.obj	b60ab476f376e5
+186	1553	7540853750922094	CMakeFiles/CandyCrush.dir/Node.cpp.obj	f052645c078dc845
+1554	2356	7540853764599781	CandyCrush.exe	c5678d247e3dab4
